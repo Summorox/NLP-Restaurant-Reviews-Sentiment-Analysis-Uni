@@ -9,6 +9,10 @@ This repository contains a group project developed as part of a master's program
 
 3. **Topic Modeling**: LDA (Latent Dirichlet Allocation) is used to extract high-frequency topics within each sentiment category, to highlight prominent themes and patterns.
 
+## Technologies Used
+**Languages**: [Python]{https://www.python.org/}  
+**Main Technologies**: [Keras]{https://keras.io/}, [PyTorch]{https://pytorch.org/}, [pyLDAvis]{https://pypi.org/project/pyLDAvis/}, [NLTK]{https://www.nltk.org/}, [Gensim]{https://radimrehurek.com/gensim/}
+
 ## Members
 | Name | Institutional Email | 
 |-----------------|-----------------|
