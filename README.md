@@ -3,15 +3,15 @@
 This repository contains a group project developed as part of a master's program in Artificial Intelligence at ISEP, completed in 2023. This experimental project was developed to explore the use of natural language processing (NLP) techniques to analyze restaurant reviews, identifying keywords associated with positive and negative sentiments, aiming to help restaurant managers understand customer feedback better by highlighting aspects that customers love or dislike.
 
 ## Methodology
-1. **Data Collection**: Reviews were taken from Yelp's academic dataset (https://www.yelp.com/dataset).
+1. **Data Collection**: Reviews were taken from [Yelp's academic dataset](https://www.yelp.com/dataset).
 
 2. **Sentiment Analysis**: A custom LSTM network, using word embeddings, is trained to classify sentiment as positive or negative. FastText embeddings are also used to capture word similarities to help relate the content of the reviews to specific aspects like "service" or "food."
 
 3. **Topic Modeling**: LDA (Latent Dirichlet Allocation) is used to extract high-frequency topics within each sentiment category, to highlight prominent themes and patterns.
 
 ## Technologies Used
-**Languages**: [Python]{https://www.python.org/}  
-**Main Technologies**: [Keras]{https://keras.io/}, [PyTorch]{https://pytorch.org/}, [pyLDAvis]{https://pypi.org/project/pyLDAvis/}, [NLTK]{https://www.nltk.org/}, [Gensim]{https://radimrehurek.com/gensim/}
+**Languages**: [Python](https://www.python.org/)  
+**Main Technologies**: [Keras](https://keras.io/), [PyTorch](https://pytorch.org/), [pyLDAvis](https://pypi.org/project/pyLDAvis/), [NLTK](https://www.nltk.org/), [Gensim](https://radimrehurek.com/gensim/)
 
 ## Members
 | Name | Institutional Email | 
