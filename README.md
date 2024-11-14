@@ -9,7 +9,15 @@ This repository contains a group project developed as part of a master's program
 
 3. **Topic Modeling**: LDA (Latent Dirichlet Allocation) is used to extract high-frequency topics within each sentiment category, to highlight prominent themes and patterns.
 
-# Usage
+## Members
+| Name | Institutional Email | 
+|-----------------|-----------------|
+| Jorge Felício    | 1181244@isep.ipp.pt    | 
+| Alessandro Cunha    | 1220183@isep.ipp.pt    | 
+| Gabriel Ribeiro    | 1220189@isep.ipp.pt    | 
+| Heloisa Guimarães | 1222616@isep.ipp.pt |
+
+## Usage
 1. Open and execute `Foodriven.ipynb` in a Jupyter environment or in Google Colab.
 2. Follow the steps described in the file to preprocess the data, train the model, analyze sentiment, and extract keywords.
 
