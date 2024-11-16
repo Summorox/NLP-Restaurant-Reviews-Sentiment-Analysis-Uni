@@ -1,4 +1,5 @@
-# Foodriven
+# Foodriven: Sentiment and Topic Analysis for Restaurant Reviews
+
 ## Overview
 This repository contains a group project developed as part of a master's program in Artificial Intelligence at ISEP, completed in 2023. This experimental project was developed to explore the use of natural language processing (NLP) techniques to analyze restaurant reviews, identifying keywords associated with positive and negative sentiments, aiming to help restaurant managers understand customer feedback better by highlighting aspects that customers love or dislike.
 
